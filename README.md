@@ -17,5 +17,12 @@ Windows Defender (and other antivirus programs) sometimes flag legitimate progra
 **Valorant installed**
 
 # 📖 installation guide
+ turn off windows defender's real time protection 
+
+ launch solarium while valorant is running in the background
+
+ turn back on real time protectiob
+
+ 
 
 
